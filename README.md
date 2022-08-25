@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou o Felipe Gazoni</h1>
+<h1 align="center">Olá! Sou Felipe Gazoni</h1>
 <h3 align="center">Um desenvolvedor em construção!</h3>
 
 - No momento estou aprendendo **Full Stack JavaScript, node.js, react e mongodb.**
