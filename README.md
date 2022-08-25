@@ -3,7 +3,7 @@
 
 - No momento estou aprendendo **Full Stack JavaScript, node.js, react e mongodb.**
 
-- 👨‍💻 Todos meus projetos estarão disponíveis no meu site [www.fgazoni.com](www.fgazoni.com)
+- 👨‍💻 Todos meus projetos estarão disponíveis aqui mesmo no meu GitHub
 
 - 📫Entre em contato comigo **fgazoni1@gmail.com**
 
