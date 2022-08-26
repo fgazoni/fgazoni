@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou Felipe Gazoni</h1>
 <h3 align="center">Um desenvolvedor em construção!</h3>
 
-- No momento estou aprendendo **Full Stack JavaScript, node.js, react e mongodb.**
+- No momento estou aprendendo **Full Stack JavaScript, node.js e mongodb.**
 
 - 👨‍💻 Todos meus projetos estarão disponíveis aqui mesmo no meu GitHub
 
